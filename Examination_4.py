@@ -8,6 +8,6 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 color = input(สัญญาณไฟจราจร)
         intput(สีของสัณญาณไฟ("red", "yellow" , "green")
-if = score= int(Stop("red")
+if = score int(Stop("red")
 
         
