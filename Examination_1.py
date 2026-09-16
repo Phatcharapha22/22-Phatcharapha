@@ -7,3 +7,9 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 total_minutes = int(input())
+total_minutes = int(input())
+total_minutes = int(input("แปลงนาทีเป็นชั่วโมงและนาที"))
+lntput = จำนวนนาทีทั้งหมด (จำนวนเต็ม)
+         int(input("จำนวนชั่วโมง")) :
+lntput = จำนวนนาทีที่เหลือ (จำนวนเต็ม)
+         int(input("จำนวนนาที")) :
